@@ -1,4 +1,4 @@
-uidghfdiughfdiughudfiCongratulations, you've successfully created a SparkleShare repository!
+fgdfgdfgdfg0900Congratulations, you've successfully created a SparkleShare repository!
 
 Any files you add or change in this folder will be automatically synced to 
 ssh://git@github.com/hbons/test.git and everyone connected to it.
